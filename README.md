@@ -32,6 +32,7 @@ This covers both sides of the system:
 
 ## Directory structure
 
+```
 └── datahaven-project/
     ├── README.md
     ├── package.json
@@ -48,6 +49,7 @@ This covers both sides of the system:
         └── services/
             ├── clientService.ts
             └── mspService.ts
+```
 
 ## Install
 
